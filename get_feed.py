@@ -13,7 +13,7 @@ stories = api.starred_stories()
 
 feed = feedgenerator.Atom1Feed(
     title=u"newsblur starred stories",
-    link=u"http://example.com/",
+    link=u"http://orde.org.uk/shared.xml",
     description=u"Stuff",
     language=u"en-GB",
     author=u'Fnord',
